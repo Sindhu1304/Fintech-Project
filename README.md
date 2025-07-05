@@ -16,7 +16,7 @@ I built this project in **three complete phases** — starting from data cleanin
 - **PostgreSQL** – SQL Querying & KPI Extraction  
 - **Power BI** – Multi-Page Dashboard with Slicers, Filters, Custom Visuals  
 - **DAX** – For KPI Cards, Calculated Columns, Measures & Top-N Logic  
-- **GitHub** – Final Portfolio Presentation  
+
 
 ---
 
