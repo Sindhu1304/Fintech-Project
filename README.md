@@ -33,6 +33,9 @@ I built this project in **three complete phases** — starting from data cleanin
   - Top Accounts
   - Channel Trends
   - Login Attempts
+ 
+    ![image](https://github.com/user-attachments/assets/8b34ab97-4f98-424d-9892-e63205edac56)
+
 
 ---
 
@@ -76,6 +79,8 @@ Top 5 spending accounts
 Channel-wise and occupation-wise transaction behavior
 
 Login attempt averages by channel (hinting at fraud risk)
+![image](https://github.com/user-attachments/assets/1eb8d22e-bcc8-4311-a4c7-731f962adc11)
+
 
 ### Page 2 – Customer Overview
 This page is all about the people behind the accounts. It analyzes customer age groups, occupations, spending behavior, and how they interact with banking services.
@@ -94,6 +99,8 @@ Top 10 highest value customers
 Preferred channels and login behavior across segments
 
 It gives a really clean view of who your users are and how they behave.
+![image](https://github.com/user-attachments/assets/e73e99f3-0e3b-420b-9bf0-b1137c931be2)
+
 
 ### Page 3 – Fraud Analysis
 This is where the detective work happens 🕵️‍♀️
@@ -114,6 +121,7 @@ Top 5 suspicious accounts based on abnormal activity
 Pie chart of fraud by transaction type (credit/debit)
 
 This page is built to spot red flags using data-driven insights.
+
 
 ### Filters across pages:
 Channel
