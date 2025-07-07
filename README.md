@@ -122,6 +122,7 @@ Pie chart of fraud by transaction type (credit/debit)
 
 This page is built to spot red flags using data-driven insights.
 
+![image](https://github.com/user-attachments/assets/a8be2e14-5d0b-40f8-8f5b-ba0e9efd5a76)
 
 ### Filters across pages:
 Channel
