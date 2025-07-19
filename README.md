@@ -130,3 +130,35 @@ Occupation
 Transaction Type
 Account ID
 Date Range
+
+
+
+### 🧩 Customer Relationship Management -Phase 4
+
+This enhancement integrates Customer Relationship Management (CRM) features into the original credit risk profiling dashboard.
+
+📌 **Key Features:**
+- Tracks customer interactions (complaints, support, feedback, etc.)
+- Calculates high-risk customer percentage
+- Filters and analyzes customer behavior across interaction types
+- Visualizes customer profiles with segmentation
+
+🛠️ **Technologies:**
+- Power BI
+- Excel (CRM data simulation)
+- Real AccountID relationships
+
+📊 **Visuals:**
+- Total Customers / High-Risk %
+- Interaction type bar chart
+- Risk profile donut chart
+- Customer notes table
+- Date, risk profile, and type slicers
+- ### 🧩 CRM Module (NEW)
+<img width="1147" height="642" alt="image" src="https://github.com/user-attachments/assets/aace15ce-66e4-4887-891b-1bd55280b3c5" />
+
+
+✅ **Impact:**
+Enables 360° view of customer risk + service engagement to support strategic decisions.
+
+
